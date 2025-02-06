@@ -1,0 +1,12 @@
+{
+  "description": "Documentation website for be-a.dev",
+  "repo": "https://github.com/kaipol/be-a.dev",
+  "owner": {
+    "username": "kaipol",
+    "email": "kaipol@be-a.dev"
+  },
+  "record": {
+    "A": "20.37.100.199"
+  },
+  "proxied": true
+}
